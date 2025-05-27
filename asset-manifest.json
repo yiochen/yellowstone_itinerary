@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yellowstone_itinerary/static/css/main.e6c13ad2.css",
+    "main.js": "/yellowstone_itinerary/static/js/main.d3bad35f.js",
+    "static/js/453.c3932639.chunk.js": "/yellowstone_itinerary/static/js/453.c3932639.chunk.js",
+    "index.html": "/yellowstone_itinerary/index.html",
+    "main.e6c13ad2.css.map": "/yellowstone_itinerary/static/css/main.e6c13ad2.css.map",
+    "main.d3bad35f.js.map": "/yellowstone_itinerary/static/js/main.d3bad35f.js.map",
+    "453.c3932639.chunk.js.map": "/yellowstone_itinerary/static/js/453.c3932639.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d3bad35f.js"
+  ]
+}
